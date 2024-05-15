@@ -1,19 +1,35 @@
 # Credit_Card_Financial_Dashboard-using-Power-BI
 
-## Introduction:
-This repository contains the source code and documentation for a Credit Card Financial Dashboard built using Power BI.
 
-## Overview:
-The Credit Card Financial Dashboard provides insights into financial transactions and trends related to credit card usage.
+📊 Thrilled to unveil the results of our Credit Card Financial Week! 💳✨
 
-## Week over Week Revenue:
-This feature allows users to analyze revenue trends on a week-over-week basis.
+🔍 Throughout the week, we've been immersed in refining our financial strategies, and I'm excited to share that we've developed a powerful Weekly Dashboard using Power BI and SQL. 💻🚀.
 
-## Installation:
-Instructions on how to download and set up the Power BI reports.
+📊 By leveraging SQL data sourcing and DAX processing, your dashboard provides actionable insights into various aspects of credit card operations. From revenue breakdowns by income brackets, marital status, dependents, education, and beyond, decision-makers are empowered with the tools they need to drive impactful change. Revolutionizing credit card operations through data-driven analytics is the way forward! 💳
 
-## Usage:
-Guidelines on how to use the dashboard effectively for financial analysis.
+💡 This dynamic dashboard offers a bird's-eye view of our credit card operations, presenting key insights and trends in a visually engaging format. 📈 With real-time data at our fingertips, we're empowered to make swift, informed decisions that propel our success forward. 💪
 
-## Dependencies:
-List of software dependencies required to run the dashboard.
+
+##Project Insights- Week 53 (31st Dec)
+
+WoW change:
+
+•Revenue increased by 28.8%,
+
+Overview YTD:
+
+•Overall revenue is 57M
+
+•Total interest is 8M
+
+•Total transaction amount is 46M
+
+•Male customers are contributing more in revenue 31M, female 26M
+
+•Blue & Silver credit card are contributing to 93% of overall transactions
+
+•TX, NY & CA is contributing to 68%
+
+•Overall Activation rate is 57.5%
+
+•Overall Delinquent rate is 6.06%
